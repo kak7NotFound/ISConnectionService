@@ -1,0 +1,14 @@
+C:\Users\kak7\RiderProjects\ISСonnectionService\bin\Debug\ISСonnectionService.exe.config
+C:\Users\kak7\RiderProjects\ISСonnectionService\bin\Debug\ISСonnectionService.exe
+C:\Users\kak7\RiderProjects\ISСonnectionService\bin\Debug\ISСonnectionService.pdb
+C:\Users\kak7\RiderProjects\ISСonnectionService\obj\Debug\ISСonnectionService.csproj.AssemblyReference.cache
+C:\Users\kak7\RiderProjects\ISСonnectionService\obj\Debug\ISСonnectionService.csproj.SuggestedBindingRedirects.cache
+C:\Users\kak7\RiderProjects\ISСonnectionService\obj\Debug\ISСonnectionService.Properties.Resources.resources
+C:\Users\kak7\RiderProjects\ISСonnectionService\obj\Debug\ISСonnectionService.csproj.GenerateResource.cache
+C:\Users\kak7\RiderProjects\ISСonnectionService\obj\Debug\ISСonnectionService.csproj.CoreCompileInputs.cache
+C:\Users\kak7\RiderProjects\ISСonnectionService\obj\Debug\ISСonnectionService.exe
+C:\Users\kak7\RiderProjects\ISСonnectionService\obj\Debug\ISСonnectionService.pdb
+C:\Users\kak7\RiderProjects\ISСonnectionService\obj\Debug\ISСonnectionService.AddAgreementForm.resources
+C:\Users\kak7\RiderProjects\ISСonnectionService\obj\Debug\ISСonnectionService.AddSubscriberForm.resources
+C:\Users\kak7\RiderProjects\ISСonnectionService\obj\Debug\ISСonnectionService.Form1.resources
+C:\Users\kak7\RiderProjects\ISСonnectionService\obj\Debug\ISСonnectionService.TariffEditorForm.resources
